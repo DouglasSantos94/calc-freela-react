@@ -1,0 +1,14 @@
+.button-calc{
+	width: 30%;
+	height: 3.125rem;	
+	background-color: white;
+	border-radius: .625rem;
+	border: solid 3px rgba(21, 238, 21, 0.384);
+	transition: border .6s ease-in-out .1s;
+	font-size: 1.125rem;
+	font-weight: bolder;
+	color: rgb(54, 136, 54);
+	text-transform: uppercase;
+	box-sizing: border-box;
+	border: solid 3px rgb(54, 136, 54);
+}

@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
+
+h1, h2, legend, label{
+	font-family: sans-serif;
+	text-align: center;
+	color: rgb(255, 255, 255);
+	text-shadow: 1px 1px 1px rgb(0, 53, 0);
+	text-transform: uppercase;
+  font-weight: bolder;
+  margin: auto;
+}

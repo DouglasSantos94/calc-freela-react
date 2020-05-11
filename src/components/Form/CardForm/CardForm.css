@@ -1,0 +1,26 @@
+.card-form{
+	display: flex;
+	flex-direction: column;
+	flex-basis: 11.5em;
+	justify-content: space-between;
+	align-items: center;
+	border-radius: 4px;
+	box-shadow: 2px 2px 3px rgb(54, 136, 54), -2px -2px 3px rgb(54, 136, 54);
+	margin-bottom: 1.5em;
+	box-sizing: border-box;
+	padding: .5em .2em;
+}
+
+.label-description {
+	font-size: 1.125rem;
+	letter-spacing: .0625rem;
+	width: 100%;
+	margin: 10px 0;
+}
+
+
+.label-description p{
+	font-size: 1rem;
+	color: rgb(50, 102, 57);
+	text-align: center;
+}

@@ -1,0 +1,29 @@
+.main-header{
+	display: flex;
+	position: fixed;
+	box-sizing: border-box;
+	margin: 0;
+	height: 100%;
+	width: 40%;
+	background-color: rgb(54, 136, 54);
+}
+
+h1{
+	display: flex;
+	flex-basis: 11.5em;
+	font-size: 3rem;
+	padding: .625rem;
+	position: relative;
+	top: 8.25rem;
+	width: 80%;
+}
+
+h2{
+	position: relative;
+	top: 9.375rem;	
+	display: block;
+	width: 80%;
+	margin: auto;
+	font-size: 1.5625rem;
+	font-weight: 400;
+}

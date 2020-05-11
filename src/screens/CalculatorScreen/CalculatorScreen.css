@@ -1,0 +1,9 @@
+.content{
+    position: relative;
+    left: 40%;
+    display: flex;
+    width: 60%;
+	align-items: center;
+	flex-direction: wor;
+	padding: 1.25rem 0 0;
+}
